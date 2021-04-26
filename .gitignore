@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Problems/Handle number format exception/out/
+/Problems/Handle number format exception/out/production/classes/
+/Problems/Swap elements/out/
+/Problems/Swap elements/out/production/classes/
+/Problems/The first position of the largest element/out/
+/Problems/The first position of the largest element/out/production/classes/
+/Steganography and Cryptography/task/build/
+/Steganography and Cryptography/task/out/
+/Steganography and Cryptography/task/out/production/classes/
